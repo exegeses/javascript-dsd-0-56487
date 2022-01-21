@@ -16,3 +16,4 @@ if ( numero < 100 ){
 else{
     document.write('El número NO es menor');
 }
+
