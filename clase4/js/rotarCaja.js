@@ -20,4 +20,4 @@ function rotar()
 
 //invocamos función rotar
 rotar();
-setInterval( rotar, 100 );
+setInterval( rotar, 25 );
