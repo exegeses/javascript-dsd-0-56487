@@ -31,7 +31,7 @@ function dosDigitos( numero )
 //para los dos puntos parpadeantes
 function blinker( num )
 {
-    let separador = ' ';
+    let separador = '';
     if( num%2 == 0 ){
         separador = ':';
     }
