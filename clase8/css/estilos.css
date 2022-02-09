@@ -1,0 +1,14 @@
+#galeria{
+    width: 900px;
+    margin: auto; /* centrar contenedor */
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+    #galeria article{
+        width: 210px;
+        padding: 5px;
+    }
+    #galeria article img{
+        width: 200px;
+    }
