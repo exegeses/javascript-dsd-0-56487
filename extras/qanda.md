@@ -1,6 +1,7 @@
 # Q and A
 
-    bootstrap
-
+    Bootstraqp es un kit de inicio para frontend
     
+    mobile-first    responsive
+
     
